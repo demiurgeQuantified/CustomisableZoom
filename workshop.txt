@@ -1,0 +1,10 @@
+version=1
+id=3405048727
+title=[B42] Customisable Zoom
+description=Adds options to customise the in-game camera zoom levels. The amount of zoom levels and their exact zoom amount can be customised from the MODS tab in the game options. You can zoom in and out much further than in vanilla, and can set the exact zoom level with much more precision.
+description=
+description=Changing the vanilla zoom settings might temporarily interfere with the mod. If this happens, changing a setting from this mod and hitting apply should fix it.
+description=
+description=[url=https://github.com/demiurgeQuantified/CustomisableZoom]View on GitHub[/url]
+tags=Build 42;Interface;Misc;QoL
+visibility=public
