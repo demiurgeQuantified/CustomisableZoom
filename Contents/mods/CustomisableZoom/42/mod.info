@@ -1,0 +1,12 @@
+name=Customisable Zoom
+id=CustomisableZoom
+description=Allows customisation of the available camera zoom levels.
+require=\StarlitLibrary
+poster=poster.png
+poster=zoomout.png
+poster=options.png
+poster=zoomin.png
+icon=icon.png
+modversion=42-1.0.0
+versionMin=42.0.2
+author=albion

@@ -1,0 +1,6 @@
+IG_UI_EN = {
+    IGUI_CustomisableZoom = "Customisable Zoom",
+    IGUI_CustomisableZoom_options_description = "Zoom levels do not need to be in any particular order - they will be sorted automatically. <br> Options with the same value will be ignored.",
+    IGUI_CustomisableZoom_options_ZoomLevel = "Zoom level %1",
+    IGUI_CustomisableZoom_options_ZoomLevelEnabled = "Enable zoom level %1",
+}
